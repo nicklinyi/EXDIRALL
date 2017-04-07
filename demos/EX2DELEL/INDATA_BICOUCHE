@@ -1,0 +1,17 @@
+  EXACT 2D RESPONSE FOR ELASTIC/ELASTIC INTERFACE
+  C  TMIN         TMAX         NTSTP
+ 0.  1.5000000  1000
+  DELAY        FP           ZS
+ 7.50000E-2,  14.,  68.1558999999
+  XREC   ZREC   DXR   DZR    NREC
+ 2133.8592999  416.1407000  1366.140700  0.,  2
+  CP1       CS1       RHO1       <-- MEDIUM I
+ 2500.,  1558.,  1500.
+  CP2       CS2       RHO2       <-- MEDIUM II
+ 3399.9999999  1963.0484,  2600.
+  ITRACE(1)  ITRACE(2)    ITRACE(3)  <-- P-WAVES
+  1          1            1
+             ITRACE(4)    ITRACE(5)  <-- S-WAVES
+             1            1
+  OUTPUT(1)  OUTPUT(2)    DISPV        FAC
+  'CON'      '   '     0     0.4605d0
